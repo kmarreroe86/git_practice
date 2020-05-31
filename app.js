@@ -1,5 +1,7 @@
 var app = {
     
-	var kaka = 'init';	
+	var kaka = 'init';
+
+	console.log('Add new-feature branch');
     
 };

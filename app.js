@@ -1,6 +1,5 @@
 var app = {
     
-	var kaka = 'init';
-	console.log(kaka);
+	var kaka = 'init';	
     
 };
